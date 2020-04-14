@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Herybuy.github.io</id>
     <title>MISS YOU</title>
-    <updated>2020-04-14T06:02:50.702Z</updated>
+    <updated>2020-04-14T06:16:44.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Herybuy.github.io"/>
     <link rel="self" href="https://Herybuy.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Herybuy.github.io/images/avatar.png</logo>
     <icon>https://Herybuy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MISS YOU</rights>
+    <entry>
+        <title type="html"><![CDATA[用我的一辈子去忘记]]></title>
+        <id>https://Herybuy.github.io/post/yong-wo-de-yi-bei-zi-qu-wang-ji/</id>
+        <link href="https://Herybuy.github.io/post/yong-wo-de-yi-bei-zi-qu-wang-ji/">
+        </link>
+        <updated>2020-04-14T06:12:17.000Z</updated>
+        <content type="html"><![CDATA[<p>两情相悦如今已经不多了，尤其在物欲横流的今天这已是奢望。但我仍然带着我的热情跟向往，在等待那个风雨夜归的人。 <img src="https://Herybuy.github.io/post-images/1586844989928.jpeg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到解忧杂货铺！]]></title>
         <id>https://Herybuy.github.io/post/huan-ying-lai-dao-jie-you-za-huo-pu/</id>
