@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Herybuy.github.io</id>
+    <id>http://mvr2x0.coding-pages.com/</id>
     <title>MISS YOU</title>
-    <updated>2020-04-15T06:28:18.251Z</updated>
+    <updated>2020-04-15T07:54:07.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Herybuy.github.io"/>
-    <link rel="self" href="https://Herybuy.github.io/atom.xml"/>
+    <link rel="alternate" href="http://mvr2x0.coding-pages.com/"/>
+    <link rel="self" href="http://mvr2x0.coding-pages.com/atom.xml"/>
     <subtitle>高山仰止 景行行止</subtitle>
-    <logo>https://Herybuy.github.io/images/avatar.png</logo>
-    <icon>https://Herybuy.github.io/favicon.ico</icon>
+    <logo>http://mvr2x0.coding-pages.com/images/avatar.png</logo>
+    <icon>http://mvr2x0.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, MISS YOU</rights>
     <entry>
         <title type="html"><![CDATA[用我的一辈子去忘记]]></title>
-        <id>https://Herybuy.github.io/post/yong-wo-de-yi-bei-zi-qu-wang-ji/</id>
-        <link href="https://Herybuy.github.io/post/yong-wo-de-yi-bei-zi-qu-wang-ji/">
+        <id>http://mvr2x0.coding-pages.com/post/yong-wo-de-yi-bei-zi-qu-wang-ji/</id>
+        <link href="http://mvr2x0.coding-pages.com/post/yong-wo-de-yi-bei-zi-qu-wang-ji/">
         </link>
         <updated>2020-04-14T06:12:17.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到解忧杂货铺！]]></title>
-        <id>https://Herybuy.github.io/post/huan-ying-lai-dao-jie-you-za-huo-pu/</id>
-        <link href="https://Herybuy.github.io/post/huan-ying-lai-dao-jie-you-za-huo-pu/">
+        <id>http://mvr2x0.coding-pages.com/post/huan-ying-lai-dao-jie-you-za-huo-pu/</id>
+        <link href="http://mvr2x0.coding-pages.com/post/huan-ying-lai-dao-jie-you-za-huo-pu/">
         </link>
         <updated>2020-04-14T05:54:56.000Z</updated>
     </entry>
