@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Herybuy.github.io</id>
     <title>MISS YOU</title>
-    <updated>2020-04-16T03:14:54.900Z</updated>
+    <updated>2020-04-16T06:51:16.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Herybuy.github.io"/>
     <link rel="self" href="https://Herybuy.github.io/atom.xml"/>
@@ -19,15 +19,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[用我的一辈子去忘记]]></title>
-        <id>https://Herybuy.github.io/post/yong-wo-de-yi-bei-zi-qu-wang-ji/</id>
-        <link href="https://Herybuy.github.io/post/yong-wo-de-yi-bei-zi-qu-wang-ji/">
+        <id>https://Herybuy.github.io/post/missu/</id>
+        <link href="https://Herybuy.github.io/post/missu/">
         </link>
         <updated>2020-04-14T06:12:17.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到解忧杂货铺！]]></title>
-        <id>https://Herybuy.github.io/post/huan-ying-lai-dao-jie-you-za-huo-pu/</id>
-        <link href="https://Herybuy.github.io/post/huan-ying-lai-dao-jie-you-za-huo-pu/">
+        <id>https://Herybuy.github.io/post/welcome/</id>
+        <link href="https://Herybuy.github.io/post/welcome/">
         </link>
         <updated>2020-04-14T05:54:56.000Z</updated>
     </entry>
